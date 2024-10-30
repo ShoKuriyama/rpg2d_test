@@ -1,0 +1,4 @@
+repository "rpg2d_test@kurisho@cloud"
+  path "/"
+    br "/main"
+    co "/main"
